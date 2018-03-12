@@ -1,0 +1,68 @@
+#ppc {
+    text-align: center;
+}
+
+#SubmitButton {
+    padding-left: 48%;
+}
+
+#phpTitle {
+    text-align: center;
+}
+
+#phpPicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 80%;
+    border: 5px solid white;
+}
+
+#phpPictureBack {
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    background: linear-gradient(to right, #434343, #000000);
+}
+
+#phpName {
+    text-align: center;
+    color: white;
+}
+
+#phpRest {
+    background: #8e9eab;
+   background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);
+   background: linear-gradient(to right, #eef2f3, #8e9eab);
+
+}
+
+body {
+    background: #ff4b1f;
+    background: -webkit-linear-gradient(to right, #1fddff, #ff4b1f);
+    background: linear-gradient(to right, #1fddff, #ff4b1f);
+    font-family: 'Merriweather', serif;
+}
+p {
+    text-align: center;
+}
+ 
+input[type=text] {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+ 
+input[type=radio] {
+    border: 2px solid black;
+    border-radius: 0px;
+}
+
+input[type=submit] {
+    background-color: #555555;
+}
+
+fieldset {
+    border: 2px solid black;
+    border-radius: 8px;	
+    margin-right: 20%;
+    margin-left: 20%;
+}
